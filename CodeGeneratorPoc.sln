@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGeneratorPoc", "CodeGeneratorPoc\CodeGeneratorPoc.csproj", "{16B5FFD4-07F2-4092-A046-65DF737DC0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator", "CodeGenerator\CodeGenerator.csproj", "{A218FED8-D527-4CD0-A214-0AAA7570844A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGeneratorTest", "CodeGeneratorTest\CodeGeneratorTest.csproj", "{550B5C55-ABC3-4521-9683-F2ED51873F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B5FFD4-07F2-4092-A046-65DF737DC0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B5FFD4-07F2-4092-A046-65DF737DC0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B5FFD4-07F2-4092-A046-65DF737DC0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B5FFD4-07F2-4092-A046-65DF737DC0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A218FED8-D527-4CD0-A214-0AAA7570844A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A218FED8-D527-4CD0-A214-0AAA7570844A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A218FED8-D527-4CD0-A214-0AAA7570844A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A218FED8-D527-4CD0-A214-0AAA7570844A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550B5C55-ABC3-4521-9683-F2ED51873F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550B5C55-ABC3-4521-9683-F2ED51873F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550B5C55-ABC3-4521-9683-F2ED51873F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550B5C55-ABC3-4521-9683-F2ED51873F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
